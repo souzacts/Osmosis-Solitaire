@@ -1,0 +1,38 @@
+############INSTRUCTIONS:
+
+--------------ABOUT:
+
+->Osmosis is an unusual game due to its foundation rule, where playable ranks “sift down” from the top foundation to lower ones. 
+->There isn’t too much room for strategy, but you’ll be kept busy keeping track of which cards can be played to which foundations. 
+->Expect to win around one game in ten or a bit more, if you’re good at paying attention.
+
+
+--------------LAYOUT:
+
+->Four stockpiles start the game with four cards each, three face down and one face up. 
+->Place the reserve piles in a vertical column. 
+->Place one card face up to the right of the topmost reserve pile to start the first foundation pile; three more foundations, placed in a column below the first, start the game empty. 
+->Keep the remainder of the deck in your hand, for dealing into a discard pile that starts out empty.
+
+
+--------------PLAY:
+
+->Top cards of the stockpiles and the discard pile are available for play onto the foundations. 
+->Foundations build by following suit, and by following the “osmosis rule.” 
+->The osmosis rule is that you cannot play a card to a foundation unless a card of the same rank has already been played to the top foundation.
+->The top foundation is special because there is no other foundation above it: you may play any card to it (if the card is of the correct suit).
+
+->If a foundation is empty, you may start it with a card of any suit you choose provided the suit hasn’t been played to any other foundation yet. The card’s rank must still obey the osmosis rule.
+
+
+--------------GOAL:
+
+->The goal is to move all the cards onto the foundations.
+
+
+--------------TIPS:
+
+->There isn’t much strategy to Osmosis. Mostly it’s a matter of paying close attention. 
+->It’s surprising how easy it is to miss a possible play.
+->One trick that might be useful is to avoid playing three cards in a row from the discard pile. 
+->This helps ensure that you will see at least some different cards on your next trip through the deck.

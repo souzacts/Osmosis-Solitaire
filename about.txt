@@ -1,0 +1,10 @@
+===================About this project:
+
+Author: Caio Souza
+Last Updated: 10/11/2023
+Class: CSCI201-0AC-FW-202320-VI-81X
+Instructor: Angela K Venable
+Purpose: Show usage of CSCI201 concepts in a terminal text based card game of Osmosis.
+M08 Final Project
+
+Ps.: I hope you have as much fun playing my game as I had writing it. Thank you!
